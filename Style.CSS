@@ -290,12 +290,12 @@ a {
 @keyframes text_reveal{
     100%{
         color: white;
-        background-color: rgba(76, 0, 130, 0.41);
+        background-color: rgba(0, 130, 74, 0.41);
     }
 }
 @keyframes text_reveal_slog {
     100%{
-        color: indigo;
+        color: darkgreen;
         font-weight: 500;
     }
 }
