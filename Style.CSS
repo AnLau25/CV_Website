@@ -152,7 +152,7 @@ p {
 }
 
 #header .nav-list ul li:hover a{
-    color: darkgreen;
+    color: white;
 }
 /*End_Header*/
 
@@ -625,12 +625,12 @@ p {
 	}
 	/* End Hero */
 
-	/* Services Section */
+	/* Exp Section */
 	#services .service-bottom .service-item {
 		flex-basis: 45%;
 		margin: 2.5%;
 	}
-	/* End Services Section */
+	/* End Exp Section */
 
 	/* Project */
 	#projects .project-item {
