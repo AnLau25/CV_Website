@@ -216,8 +216,7 @@ p {
 }
 /*End_Hamburger*/
 
-/*Hero_Ana*/
-
+/*Hero_Start*/
 #hero video{
 	position: absolute;
 	top: 0;
@@ -469,6 +468,7 @@ p {
 }
 #about .col-right p {
 	margin-bottom: 20px;
+	font-weight: 500;
 }
 #about .col-right .cta {
 	color: black;
